@@ -1,0 +1,174 @@
+html{
+
+scroll-behavior:smooth;
+
+}
+
+body{
+
+background:#FFFDF8;
+padding-top:75px;
+
+}
+
+.btn-success{
+    background:#7a9e7e;
+    border:none;
+}
+
+.btn-warning{
+    background:#b78457;
+    border:none;
+    color:white;
+}
+
+.navbar{
+
+box-shadow:0 .25rem 1rem rgba(0,0,0,.08);
+
+}
+
+.card{
+
+transition:.3s;
+
+}
+
+.card:hover{
+
+transform:translateY(-8px);
+
+}
+
+.card-img-top{
+
+    height:230px;
+
+    object-fit:cover;
+}
+
+.carousel-item{
+
+height:450px;
+
+}
+
+.carousel-item img{
+
+height:100%;
+
+object-fit:cover;
+
+}
+
+.btn{
+    border-radius:50rem;
+    transition:.2s;
+}
+
+.btn:hover{
+    transform:scale(1.03);
+}
+
+#btn-order{
+    background-color: rgb(230, 157, 0);
+}
+
+#btn-order:hover{
+    background-color: rgb(237, 197, 111);
+}
+
+.nav-pills .nav-link{
+
+    color:#6F4E37;
+    border:1px solid #DCCDB8;
+    border-radius:50rem;
+    margin:0 .35rem;
+    transition:.25s;
+
+}
+
+.nav-pills .nav-link:hover{
+
+    background:#F4ECE3;
+    color:#6F4E37;
+
+}
+
+.nav-pills .nav-link.active{
+
+    background:#6F4E37;
+    color:white;
+
+}
+
+.breadcrumb-item a{
+    color:#6F4E37;
+    text-decoration:none;
+    font-weight:500;
+}
+
+.breadcrumb-item a:hover{
+    color:#4f3625;
+    text-decoration:underline;
+}
+
+.breadcrumb-item.active{
+    color:#8AA387;
+    font-weight:600;
+}
+
+.breadcrumb-item + .breadcrumb-item::before{
+    color:#A68A64;
+}
+
+.pagination .page-link{
+
+    color:#6F4E37;
+    border:1px solid #DCCDB8;
+    background:#FFFDF8;
+
+    transition:.25s;
+}
+
+.pagination .page-link:hover{
+
+    background:#6F4E37;
+    color:white;
+    border-color:#6F4E37;
+
+}
+
+.pagination .page-item.active .page-link{
+
+    background:#8AA387;
+    border-color:#8AA387;
+    color:white;
+
+}
+
+.pagination .page-item.disabled .page-link{
+
+    color:#B4A99A;
+    background:#F8F4EE;
+
+}
+
+
+@media (min-width: 992px) {
+    #trending img {
+        margin-left: 72px;
+    }
+}
+
+.list-group-item{
+
+border:none;
+
+}
+
+footer table td{
+
+color:white;
+
+}
