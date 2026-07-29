@@ -1,4 +1,4 @@
-# 🍵 Matcha Café Landing Page
+# Coffee Garden Landing Page
 
 A modern, responsive café landing page built using **Bootstrap 5**. This project showcases a clean and user-friendly interface for a fictional café, featuring a hero section, menu, featured products, customer reviews, a support form with validation, and a responsive design optimized for all screen sizes.
 
