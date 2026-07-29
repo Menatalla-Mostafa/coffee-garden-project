@@ -48,8 +48,8 @@ A modern, responsive café landing page built using **Bootstrap 5**. This projec
 
 ## 📂 Project Structure
 
-```text
-project/
+```
+coffee-garden-project/
 │
 ├── index.html
 ├── css/
