@@ -14,26 +14,25 @@ A modern, responsive café landing page built using **Bootstrap 5**. This projec
 - Customer testimonials
 - Contact/Support form with Bootstrap validation
 - Bootstrap components including:
-  - Cards
-  - Navbar
-  - Dropdowns
-  - Buttons
-  - Button Groups
-  - List Groups
-  - Progress Bar
-  - Tooltips
-  - Toast Notifications
-  - Collapse
-  - Badges
-  - Spinner
-  - Forms & Validation
+  - Accordion
   - Alert
   - Badges
-  - Grid System
   - Breadcrumbs
+  - Button Groups
+  - Buttons
+  - Cards
+  - Collapse
+  - Dropdowns
+  - Forms & Validation
+  - Grid System
+  - List Groups
+  - Navbar
   - Pagination
-  - Accordion
+  - Progress Bar
+  - Spinner
   - Tabs
+  - Toast Notifications
+  - Tooltips
 
 ---
 
